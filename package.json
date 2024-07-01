@@ -13,9 +13,6 @@
     "url": "https://github.com/egametang/ET"
   },
   "relatedPackages": {},
-  "gitDependencies": {
-    "cn.etetet.core": "https://github.com/ET-Packages/cn.etetet.core.git#0.0.1"
-  },
   "publishConfig": 
   { 
     "registry": "https://npm.pkg.github.com/@ET-Packages" 
